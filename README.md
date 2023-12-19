@@ -10,7 +10,7 @@ QR_generator es una herramienta que crea códigos QR de manera automática. Gene
 Los códigos QR son ampliamente utilizados para compartir información de manera rápida y fácil, ya que se pueden escanear con la mayoría de los dispositivos móviles. Además, mencionar que en Python, la creación de códigos QR es accesible y versátil, permitiendo a los desarrolladores integrar esta funcionalidad en sus aplicaciones o proyectos de manera sencilla.
 
 ### Que utilizamos?
-En nuestro **push_swap** tenemos solo las siguentes funciones de librerias externas autorizadas:
+En nuestro **QR_generator** tenemos las siguentes librerias externas:
 
 | imports  | Descripción								 	|
 |-------|-----------------------------------------------------------------------------------|
