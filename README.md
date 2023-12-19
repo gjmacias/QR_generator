@@ -2,11 +2,11 @@
 QR_generator es una herramienta que crea códigos QR de manera automática. Generar imágenes bidimensionales que almacenan información, como enlaces, texto o datos. Es una forma eficiente de codificar y compartir datos de manera visualmente legible.
 
 ### Indice
-* [¿Qué es QRgenerator?](#que-es-qrgenerator)
+* [¿Que es QR_generator?](#que-es-qrgenerator)
 * [Que utilizamos?](#que-utilizamos)
 * [Como funciona?](#como-funciona)
 
-### ¿Qué es QRgenerator?
+### ¿Que es QR_generator?
 Los códigos QR son ampliamente utilizados para compartir información de manera rápida y fácil, ya que se pueden escanear con la mayoría de los dispositivos móviles. Además, mencionar que en Python, la creación de códigos QR es accesible y versátil, permitiendo a los desarrolladores integrar esta funcionalidad en sus aplicaciones o proyectos de manera sencilla.
 
 ### Que utilizamos?
